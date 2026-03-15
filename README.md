@@ -44,7 +44,7 @@ project/
 
 ```bash
 # 1. Clone and enter project
-git clone https://github.com/your-username/scholarbot-neostats
+git clone https://github.com/Saitejao5/project_chat
 cd scholarbot-neostats/project
 
 # 2. Install dependencies

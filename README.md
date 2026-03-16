@@ -4,7 +4,6 @@
 
 An intelligent chatbot that helps students, researchers, and educators understand complex academic content, explore research papers, and get answers from uploaded study materials — powered by RAG and live web search.
 
-🔗 **Live Demo:** [your-app.streamlit.app](https://your-app.streamlit.app)  
 🐙 **GitHub:** [github.com/Saitejao5/project_chat](https://github.com/Saitejao5/project_chat)
 
 ---
